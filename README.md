@@ -1,1 +1,2 @@
 #HOMEPAGE CHANGE README
+##기여 방법
